@@ -1,4 +1,4 @@
-module github.com/zercle/gofiber-helpers
+module github.com/Zentrix-Software-Hive/gofiber-helpers
 
 go 1.19
 
